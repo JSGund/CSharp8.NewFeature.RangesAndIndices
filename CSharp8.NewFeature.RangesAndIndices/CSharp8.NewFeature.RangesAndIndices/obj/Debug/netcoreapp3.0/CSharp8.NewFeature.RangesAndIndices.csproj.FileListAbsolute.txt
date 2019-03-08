@@ -1,0 +1,12 @@
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.exe
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.deps.json
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.runtimeconfig.json
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.runtimeconfig.dev.json
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.dll
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\bin\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.pdb
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.csprojAssemblyReference.cache
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.csproj.CoreCompileInputs.cache
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.AssemblyInfoInputs.cache
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.AssemblyInfo.cs
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.dll
+D:\Other\GitHub\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\CSharp8.NewFeature.RangesAndIndices\obj\Debug\netcoreapp3.0\CSharp8.NewFeature.RangesAndIndices.pdb
